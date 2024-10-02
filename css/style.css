@@ -1,0 +1,341 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+h1,h2,h3,h4,h5,h6,ul,li,a,p{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbar-brand{
+    font-size: 24px;
+    color: #000;
+    font-family: "Pacifico", cursive;
+}
+
+.nav-link{
+    font-size: 22px;
+    color: #6C6C6C !important;
+    
+    
+}
+
+.car{
+    color: #000;
+    font-size: 20px;
+}
+
+
+
+.nav-link:hover{
+    color: red !important;
+}
+
+
+.car:hover{
+    color: red !important;
+}
+
+
+.zhuk{
+    color: #D77474;
+    font-size: 24px;
+    margin-bottom: 12px;
+
+}
+
+
+.dig{
+    color: #000;
+    font-size: 48px;
+    max-width: 422px;
+    margin-bottom: 14px;
+}
+
+
+
+.baby{
+    color: #6c6c6c;
+    font-size: 18px;
+    margin-bottom: 51px;
+}
+
+
+.nfs_mw{
+    background: red !important;
+    padding: 19px 31px 21px 40px;
+    color: #fff;
+    border: none;
+}
+
+
+.rolton{
+    background: url(../img/img-1.png) no-repeat center/cover;
+}
+
+
+.rolton{
+    padding-top: 94px;
+    padding-bottom: 114px;
+}
+
+
+.tea{
+    color: red;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+
+.spider{
+    color: #000;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.cafffe{
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.sixty{
+    margin-bottom: 26px;
+}
+
+
+.seventy{
+    margin-bottom: 26px;
+}
+
+
+.adidas{
+    margin-bottom: 90px;
+    
+}
+
+
+
+.rush{
+    font-size: 24px;
+    color: #000;
+    
+}
+
+
+.nnn{
+    font-size: 14px;
+    color: rgba(108, 108, 108, 1);
+    margin-top: 23px;
+
+}
+
+
+.mnm{
+    font-size: 14px;
+    color: #000;
+    margin-top: 27px;
+}
+
+
+.sas{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    max-height: 500px;
+    height: 100%;
+    max-width: 400px;
+}
+
+
+.dfg{
+    margin-top: 77px;
+}
+
+
+
+.guar{
+    margin-top: 100px;
+    color: #000;
+    font-size: 24px;
+}
+
+.guar1{
+    margin-top: 23px;
+    color: rgba(108, 108, 108, 1);
+    font-size: 14px;
+
+}
+
+.guar2{
+    margin-top: 27px;
+    color: #000;
+    font-size: 14px;
+}
+
+
+.lolkik{
+    max-width: 400px;
+}
+
+
+
+.section12{
+    padding-top: 234px;
+}
+
+
+
+
+.section13{
+    margin-top: 197px;
+}
+
+
+
+.fary{
+    color: rgba(215, 116, 116, 1);
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    padding-top: 170px;
+}
+
+
+
+.farryy{
+    color: #000;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    margin-top: 17px;
+}
+
+.nmnf{
+    width: 100%;
+    margin-top: 60px;
+}
+
+
+
+.stript{
+    font-size: 16px;
+    color: rgba(108, 108, 108, 1);
+}
+
+
+
+.ript{
+    font-size: 14px;
+    color: #000;
+}
+
+
+.button{
+    background: rgba(172, 19, 19, 1);
+    color: #fff;
+    font-size: 12px;
+    padding: 20px 26px 20px 40px;
+    margin: auto;
+    border: none;
+    display: flex;
+    margin-top: 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+
+
+/* TG logo */
+.tglogo{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.TGLOGO{
+    width: 100px;
+    height: 100px;
+}
+
+
+.LN{
+    color: red;
+    text-align: center;
+}
+/* LATEST NEWS */
+.latestnews{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+/* LATEST NEWS FORM */
+.form{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.input{
+    width: 250px;
+    height: 27px;
+    border: 1px solid gray;
+}
+.formsbutton{
+    width: 120px;
+    height: 27px;
+    background-color: #000;
+    color: white;
+    text-align: center;
+}
+/* POMPEO */
+.pompeo{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.POMPEO{
+    text-align: center;
+}
+/* 3 CARDS */
+.threecards{
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-around;
+}
+.footcard{
+    width: 300px;
+    height: 180px;
+    text-align: center;
+}
+.footimage{
+    width: 50px;
+    height: 50px;
+}
+/* Footer */
+.footer{
+    width: 100%;
+    height: 25px;
+}
+.Footertext{
+    text-align: center;
+}
